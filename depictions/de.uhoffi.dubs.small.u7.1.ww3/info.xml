@@ -25,6 +25,8 @@
         <change>
             <changeVersion>1.0.1</changeVersion>
             <changeDescription>Style Fix Wallpaper</changeDescription>
+        </change>
+        <change>
             <changeVersion>1.0</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
